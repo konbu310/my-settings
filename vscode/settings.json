@@ -1,0 +1,48 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 14,
+  "editor.letterSpacing": 1,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.renderLineHighlight": "gutter",
+  "editor.smoothScrolling": true,
+  "terminal.integrated.fontFamily": "Menlo",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "prettier.disableLanguages": [],
+  "window.zoomLevel": 0,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "files.associations": {
+    "*.tpl": "html",
+    "Shakefile": "makefile",
+    "*.ejs": "html"
+  },
+  "[python]": {
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4
+  },
+  "git.enableSmartCommit": true,
+  "workbench.sideBar.location": "left",
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "emmet.syntaxProfiles": {
+    "jsx": {
+      "self_closing_tag": true
+    },
+    "Makefile": {
+      "prettier.useTabs": true
+    }
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "prettier.tabWidth": 2,
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": false,
+  "workbench.colorTheme": "Night Owl",
+  "prettier.trailingComma": "es5",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "workbench.editor.showTabs": true,
+  "go.gopath": "/Users/yuya/.go"
+}
